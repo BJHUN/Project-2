@@ -1,8 +1,15 @@
-# project-2-
+# Media Dadta Processing-
+
+Purpose: extract, load and transform datasets concerning different kinds of media. We will clean and join these together, as well as examine popular genres in each. We want to see if there’s any overlap between these different categories.   
+
+Datasets(taken from Kaggle): 
+Netflix Originals: https://www.kaggle.com/luiscorter/netflix-original-films-imdb-scores 
+Anime: https://www.kaggle.com/vishalmane10/anime-dataset-2022 
+Youtube: https://www.kaggle.com/ammar111/youtube-trending-videos-analysis/data 
+
 ---Before you begin---
 Import pandas, datetime, sql alchemy. 
 Create a Postgres database called media.
-
 
 ---Objective---
 Process and clean 3 csvs and generate a 4th combined table that will be exported to the media database. 
