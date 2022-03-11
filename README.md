@@ -4,7 +4,9 @@ Purpose: extract, load and transform datasets concerning different kinds of medi
 
 Datasets(taken from Kaggle): 
 Netflix Originals: https://www.kaggle.com/luiscorter/netflix-original-films-imdb-scores 
+
 Anime: https://www.kaggle.com/vishalmane10/anime-dataset-2022 
+
 Youtube: https://www.kaggle.com/ammar111/youtube-trending-videos-analysis/data 
 
 ---Before you begin---
