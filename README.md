@@ -1,4 +1,4 @@
-# Media Dadta Processing-
+# Media ETL-
 
 Purpose: extract, load and transform datasets concerning different kinds of media. We will clean and join these together, as well as examine popular genres in each. We want to see if there’s any overlap between these different categories.   
 
